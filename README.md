@@ -16,6 +16,6 @@ This Excel model calculates the intrinsic value of Tata Motors using the Discoun
 - Manual formula building
 
 ## Author
-Built by [Your Name] as part of a learning project in corporate finance.
+Built by Mohammed Mussadiq Khan as part of a learning project in corporate finance.
 
 📁 File: `tata-motors-dcf.xlsx`
